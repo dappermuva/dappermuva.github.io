@@ -126,7 +126,7 @@ background: #aaa;
     justify-content: center;
     align-items: center;
     background: url('redzelportrait.png') no-repeat center center /cover;
-    height: 80vh;
+    height: 100vh;
     text-align: center;
     position:inherit; 
 }
